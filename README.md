@@ -11,11 +11,9 @@ A complete FiveM ESX Pizza Job script with full business management, interactive
 
 - 🏪 **Ownable Shop** – Players can purchase and operate their own pizzeria.  
 - 👔 **Job Management** – Hire, promote, or fire staff members.  
-- 💸 **Money Management** – Handle both personal and society funds.  
-- 🧾 **Item Add/Update/Remove** – Fully manage the pizza menu.  
-- 💰 **Price Update** – Set dynamic prices for each pizza and addon.  
-- 🍳 **Item Cooking** – Interactive pizza-making mini-game for players.  
-- 🏦 **Society Money Integration** – Integrated with ESX society accounts.  
+- 💸 **Money Management** – Handle society funds.  
+- 🍳 **Item Cooking** – Interactive pizza-making for players.  
+- 💰 **Price Update** – Set dynamic prices for each pizza.  
 - 🎨 **Clean UI** – Modern, intuitive interface for customers and staff.  
 - ⚙️ **Highly Configurable** – Easily tweak every aspect of the script.  
 - 📍 **Ultimate Location** – Strategically placed pizzeria for maximum RP.  
